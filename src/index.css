@@ -1,0 +1,13 @@
+:root {
+  color-scheme: white;
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  margin: 0;
+  font-family: "Inter Regular";
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
